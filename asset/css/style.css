@@ -1,0 +1,14 @@
+
+* {
+    box-sizing: border-box;
+    /* kích thước phần tử = viền + đệm + nội dung  */
+}
+
+html {
+    font-size: 62.5%;
+    /* quy đổi 1rem=10px */
+}
+
+body {
+    font-size: 1.6rem;
+}
